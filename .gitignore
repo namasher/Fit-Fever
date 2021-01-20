@@ -1,0 +1,14 @@
+# Python
+__pycache__
+
+# Packages
+*.egg
+*.egg-info
+**/dist/*
+**/build/*
+
+# VIM
+*.swp
+
+# Visual Studio Code
+.vscode/
